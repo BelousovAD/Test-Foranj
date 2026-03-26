@@ -85,6 +85,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2107988145583904451}
   - component: {fileID: 7127024295694367264}
+  - component: {fileID: 3892843548097293889}
+  - component: {fileID: 747742038420531496}
   m_Layer: 5
   m_Name: Card
   m_TagString: Untagged
@@ -111,7 +113,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7127024295694367264
 MonoBehaviour:
@@ -127,6 +129,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.AspectRatioFitter
   m_AspectMode: 2
   m_AspectRatio: 0.7
+--- !u!114 &3892843548097293889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243120718210631931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44a01c73d5a99347bee0a6cfb9de5b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Card::Card.Card
+--- !u!114 &747742038420531496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243120718210631931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f80622d50b843d38b6775b5e5e75e38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Card::Card.CardView
+  _card: {fileID: 3892843548097293889}
+  _cover: {fileID: 1520656693348455368}
+  _textField: {fileID: 1892007548383826136}
+  _opened: {fileID: 0}
+  _closed: {fileID: -4457850898058260020, guid: 590af4e89f46ab24982f61554ff610f6, type: 3}
 --- !u!1 &8651725318629731494
 GameObject:
   m_ObjectHideFlags: 0
