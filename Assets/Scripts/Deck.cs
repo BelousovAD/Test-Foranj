@@ -27,7 +27,15 @@ internal class Deck : MonoBehaviour
     {
         if (_top > MinIndex)
         {
+            Card card = _cards[_top];
+            _cards.RemoveAt(_top);
             _top--;
+            Destroy(card.gameObject);
+
+            if (_top > MinIndex)
+            {
+                _cards[_top].Open();
+            }
         }
     }
 }

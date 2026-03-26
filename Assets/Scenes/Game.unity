@@ -264,6 +264,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 783523771}
     m_Modifications:
+    - target: {fileID: 57627398601663631, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 111199351114518877, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 111955434980556390, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_Name
       value: Deck (3)
@@ -348,6 +356,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 595602180373850237, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 870273246706552718, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -360,6 +372,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3438397729604082987, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 3714656472807717412, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -380,10 +396,30 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5583735792158013018, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 6940594495915875757, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 7705064694597561660, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 7987444494566008063, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8278639312950592496, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 9041972900235070280, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -450,6 +486,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 783523771}
     m_Modifications:
+    - target: {fileID: 57627398601663631, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 111199351114518877, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 111955434980556390, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_Name
       value: Deck (1)
@@ -534,6 +578,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 595602180373850237, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 870273246706552718, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -546,6 +594,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3438397729604082987, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 3714656472807717412, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -566,10 +618,30 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5583735792158013018, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 6940594495915875757, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 7705064694597561660, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 7987444494566008063, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8278639312950592496, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 9041972900235070280, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -600,6 +672,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 493998981}
+  - component: {fileID: 493998982}
   m_Layer: 5
   m_Name: Start
   m_TagString: Untagged
@@ -627,6 +700,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &493998982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 493998980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d2046847cd4a5c8eaa2d81ba6bd3fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Stacker
+  _startCard: {fileID: 1083441463}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,9 +980,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 647599744}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 027488cc7eee48c590e9fea2a8f5f243, type: 3}
+  m_Script: {fileID: 11500000, guid: a0c9a35c4f28406f8121e5eaba78af9c, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Card::Card.Bank
+  m_EditorClassIdentifier: Assembly-CSharp::BankView
+  _bank: {fileID: 7127024295518186385}
 --- !u!1 &783523770
 GameObject:
   m_ObjectHideFlags: 0
@@ -1123,7 +1210,9 @@ PrefabInstance:
       propertyPath: m_AspectMode
       value: 3
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+    - {fileID: 6786111398535304835, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1152,6 +1241,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 783523771}
     m_Modifications:
+    - target: {fileID: 57627398601663631, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 111199351114518877, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 111955434980556390, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_Name
       value: Deck (2)
@@ -1236,6 +1333,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 595602180373850237, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 870273246706552718, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -1248,6 +1349,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3438397729604082987, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 3714656472807717412, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -1268,10 +1373,30 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5583735792158013018, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 6940594495915875757, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 7705064694597561660, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 7987444494566008063, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8278639312950592496, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 9041972900235070280, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1446,7 +1571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Card::Card.LevelInitializer
   _chainBuilder: {fileID: 150691175}
-  _bank: {fileID: 647599746}
+  _bank: {fileID: 7127024295518186385}
   _start: {fileID: 1083441463}
   _decks:
   - {fileID: 8201426923957420492}
@@ -1531,7 +1656,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2107988145944594285}
   - component: {fileID: 7127024295518186382}
+  - component: {fileID: 7127024295518186385}
   - component: {fileID: 7127024295518186383}
+  - component: {fileID: 7127024295518186384}
   m_Layer: 5
   m_Name: BankButton
   m_TagString: Untagged
@@ -1605,6 +1732,32 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &7127024295518186384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243120718420367701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b36969092334934977ddf0786e7f015, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BankButton
+  _bank: {fileID: 7127024295518186385}
+  _stacker: {fileID: 493998982}
+--- !u!114 &7127024295518186385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243120718420367701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027488cc7eee48c590e9fea2a8f5f243, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Card::Card.Bank
 --- !u!1001 &8201426923957420491
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1613,6 +1766,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 783523771}
     m_Modifications:
+    - target: {fileID: 57627398601663631, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 111199351114518877, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 111955434980556390, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_Name
       value: Deck (0)
@@ -1697,6 +1858,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 595602180373850237, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 870273246706552718, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -1709,6 +1874,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3438397729604082987, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 3714656472807717412, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -1729,10 +1898,30 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5583735792158013018, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 6940594495915875757, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 7705064694597561660, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     - target: {fileID: 7987444494566008063, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8278639312950592496, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
+    - target: {fileID: 9041972900235070280, guid: a97425ac8b1f1cf45b467ba6ff724198, type: 3}
+      propertyPath: _stacker
+      value: 
+      objectReference: {fileID: 493998982}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

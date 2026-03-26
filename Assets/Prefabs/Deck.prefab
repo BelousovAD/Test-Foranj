@@ -149,6 +149,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -251,6 +255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -353,6 +361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -455,6 +467,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -557,6 +573,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (0)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -659,6 +679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -761,6 +785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -863,6 +891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -965,6 +997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6642715968597225239, guid: 04dd7bee7df9bd7459d7aa419d65aa84, type: 3}
+      propertyPath: _deck
+      value: 
+      objectReference: {fileID: 5814082040555303234}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
