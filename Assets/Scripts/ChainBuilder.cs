@@ -6,6 +6,8 @@ using Random = UnityEngine.Random;
 
 internal class ChainBuilder : MonoBehaviour
 {
+    private const int StartCardCount = 1;
+    
     [SerializeField][Min(0)] private int _cardCount = 40;
     [SerializeField][Min(2)] private int _minLength = 2;
     [SerializeField][Min(2)] private int _maxLength = 7;
@@ -14,13 +16,9 @@ internal class ChainBuilder : MonoBehaviour
 
     private readonly FaceType[] _faces = Enum.GetValues(typeof(FaceType)).Cast<FaceType>().ToArray();
     private int _minBaseLength;
-    private int _maxBaseLength;
 
-    private void Awake()
-    {
-        _minBaseLength = _minLength - 1;
-        _maxBaseLength = _maxLength - 1;
-    }
+    private void Awake() =>
+        _minBaseLength = _minLength - StartCardCount;
 
     public List<List<FaceType>> GenerateChains()
     {
@@ -63,7 +61,7 @@ internal class ChainBuilder : MonoBehaviour
             
         if (remainCardCount - _minBaseLength < _minBaseLength)
         {
-            lenght = remainCardCount + 1;
+            lenght = remainCardCount + StartCardCount;
         }
         else
         {

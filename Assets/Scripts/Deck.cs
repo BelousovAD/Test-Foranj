@@ -6,7 +6,7 @@ internal class Deck : MonoBehaviour
     private const int MinIndex = -1;
         
     private readonly List<Card> _cards = new ();
-    private int _top = -1;
+    private int _top = MinIndex;
 
     public bool IsFull => _top == _cards.Count - 1;
 
